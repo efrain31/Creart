@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "273376796426",
+    "project_id": "creart-movil",
+    "storage_bucket": "creart-movil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273376796426:android:61db555aa549d8287464f3",
+        "android_client_info": {
+          "package_name": "com.example.creart_movile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkyVhgOSVKLqEFvWEhxOP8CH0PXfeiiAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273376796426:android:117d617704ffaa8a7464f3",
+        "android_client_info": {
+          "package_name": "com.example.ecomercemovil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkyVhgOSVKLqEFvWEhxOP8CH0PXfeiiAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
