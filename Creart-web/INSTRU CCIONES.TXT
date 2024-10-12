@@ -1,0 +1,13 @@
+COMANDOS UTILIZADOS
+
+NPM RUN DEV
+MIX
+
+composer require livewire/livewire
+
+PHP ARTISAN MIGRADE
+
+DATA BASE NAME: create
+NOTA: cambiar el puerto a tus necesidades el mio ese el 3308
+
+------IMPORTANTE ----- AGREGAR COMANDOS QUE SEAN NECESARIOS PARA EL USO Y FUNCIONAMIENTO
